@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 permalink: /
 redirect_to: https://kel-lu.github.io/about
-layout: home
+layout: page
 ---
 

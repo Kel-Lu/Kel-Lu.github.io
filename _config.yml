@@ -20,13 +20,10 @@
 
 title: Kelvin Luu
 email: kellu@cs.washington.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+#description: I am a PhD student at the University of Washignton studying Natural Language Processing. I am a member of [Noah Smith's Ark](https://noahs-ark.github.io/) and a student of the Paul G. Allen School of Computer Science and Engineering. Before, I was an undergraduate student at Cornell University.
 baseurl: "kel-lu.github.io" # the subpath of your site, e.g. /blog
 url: "https://kel-lu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "@kel__lu"
+twitter_username: "kel__lu"
 github_username:  "Kel-Lu"
 
 # Build settings

@@ -6,7 +6,7 @@ permalink: /publications
 
 Explaining Relationships Between Scientific Documents  
 **Kelvin Luu**\*, Xinyi Wu\*, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola, Noah A. Smith   
-\*Denotes Equal Contribution
+\*Denotes Equal Contribution  
 ACL 2021 (To Appear)
 
 [Measuring Online Debaters’ Persuasive Skill from Text over Time](https://aclanthology.org/Q19-1031.pdf)  

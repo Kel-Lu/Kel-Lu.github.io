@@ -4,7 +4,7 @@ author: "Kelvin Luu"
 
 theme: minima
 
-base_url: /kel-lu.github.io
+base_url: /kel-lu.github.io/about
 url: https://kel-lu.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 
 # Minima social links
@@ -24,6 +24,7 @@ header_pages:
   - _pages/frontpage.md
   - _pages/about.md
   - _pages/archive.md
+  - _pages/publications.md
 
 include:
     - _pages

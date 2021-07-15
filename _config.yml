@@ -21,13 +21,13 @@
 #title: Kelvin Luu
 email: kellu[at]cs.washington.edu
 #description: I am a PhD student at the University of Washignton studying Natural Language Processing. I am a member of [Noah Smith's Ark](https://noahs-ark.github.io/) and a student of the Paul G. Allen School of Computer Science and Engineering. Before, I was an undergraduate student at Cornell University.
-baseurl: "kel-lu.github.io" # the subpath of your site, e.g. /blog
-url: "https://kel-lu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "kel__lu"
-github_username:  "Kel-Lu"
+baseurl: kel-lu.github.io # the subpath of your site, e.g. /blog
+url: https://kel-lu.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: kel__lu
+github_username:  Kel-Lu
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 

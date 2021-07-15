@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications
 ---
 
-Explaining Relationships Between Scientific Documents  
+**Explaining Relationships Between Scientific Documents**  
 Kelvin Luu\*, Xinyi Wu\*, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola, Noah A. Smith   
 \*Denotes Equal Contribution  
 ACL 2021 (To Appear)

@@ -8,7 +8,7 @@ I am a PhD student at the University of Washignton studying Natural Language Pro
 
 Right now, I'm interested in how people communicate might change over time, especially with current large, pretrained language models. 
 
-##Publications##
+## Publications ##
 
 **Explaining Relationships Between Scientific Documents**  
 Kelvin Luu\*, Xinyi Wu\*, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola, Noah A. Smith   

@@ -12,7 +12,7 @@ Right now, I'm interested in how people communicate might change over time, espe
 
 ### Publications ###
 
-[Explaining Relationships Between Scientific Documents](https://aclanthology.org/2021.acl-long.166.pdf)
+[Explaining Relationships Between Scientific Documents](https://aclanthology.org/2021.acl-long.166.pdf)  
 Kelvin Luu\*, Xinyi Wu\*, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola, Noah A. Smith   
 \*Denotes Equal Contribution  
 ACL 2021 

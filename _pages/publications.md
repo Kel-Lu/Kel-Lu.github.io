@@ -4,10 +4,10 @@ title: "Publications"
 permalink: /publications
 ---
 
-**Explaining Relationships Between Scientific Documents**  
+[Explaining Relationships Between Scientific Documents](https://aclanthology.org/2021.acl-long.166.pdf)
 Kelvin Luu\*, Xinyi Wu\*, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola, Noah A. Smith   
 \*Denotes Equal Contribution  
-ACL 2021 (To Appear)
+ACL 2021
 
 [Measuring Online Debaters’ Persuasive Skill from Text over Time](https://aclanthology.org/Q19-1031.pdf)  
 Kelvin Luu, Chenhao Tan, A. Noah Smith  

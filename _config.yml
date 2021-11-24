@@ -21,11 +21,11 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/about.md
-  - _pages/publications.md
+#  - _pages/about.md
+#  - _pages/publications.md
 
-include:
-    - _pages
+#include:
+#    - _pages
 
 exclude: 
     - .gitignore

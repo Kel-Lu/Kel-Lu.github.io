@@ -1,5 +1,3 @@
-layout: Home
-title: "About Me"
 
 ### About Me ###
 
